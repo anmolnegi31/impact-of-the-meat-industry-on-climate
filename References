@@ -1,16 +1,21 @@
-1.) Devi SM, Balachandar V, Lee SI, Kim IH. An Outline of Meat Consumption in the Indian Population - A Pilot Review. Korean J Food Sci Anim Resour. 2014;34(4):507-15. doi: 10.5851/kosfa.2014.34.4.507. Epub 2014 Aug 31. PMID: 26761289; PMCID: PMC4662155.
-2.) R.N. Chatterjee and U. Rajkumar. An overview of Poultry production in India. Indian J. Anim. Hlth. (2015), 54(2) : 89-108. 
-3.) Ricky Thaper. The expanding landscape of India’s poultry sector. 22nd January, 2024. The Poultry Site   (https://www.thepoultrysite.com/articles/the-expanding-landscape-of-indias-poultry-sector#:~:text=According%20to%20EMR%20market%20research,USD%20%2444.97%20billion%20by%202032.)
-4.) Methane and Climate Change. Methane Tracker 2021, International Energy Agency.(https://www.iea.org/reports/methane-tracker-2021/methane-and-climate-change#)
-5.) IPCC SRCCL Chapter 5- Food Security Mbow, C., C. Rosenzweig, L.G. Barioni, T.G. Benton, M. Herrero, M. Krishnapillai, E. Liwenga, P. Pradhan, M.G. Rivera-Ferre, T. Sapkota, F.N. Tubiello, Y. Xu, 2019: Food Security. In: Climate Change and Land: an IPCC special report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems [P.R. Shukla, J. Skea, E. Calvo Buendia, V. Masson-Delmotte, H.-O. Pörtner, D.C. Roberts, P. Zhai, R. Slade, S. Connors, R. van Diemen, M. Ferrat, E. Haughey, S. Luz, S. Neogi, M. Pathak, J. Petzold, J. Portugal Pereira, P. Vyas, E. Huntley, K. Kissick, M. Belkacemi, J. Malley, (eds.)]. https://doi.org/10.1017/9781009157988.007
-6.) Impacts of climate change on the livestock food supply chain; a review of the evidence C.M. Godde, D. Mason-D’Croz, D.E. Mayberry, P.K. Thornton, and M. Herrero Glob Food Sec. 2021 Mar; 28: 100488. Published online 2021 Mar. doi: 10.1016/j.gfs.2020.100488
-7.) Cassandra Brooks, Stanford's Woods Institute, 2011 URL-https://woods.stanford.edu/news/meats-environmental-impact#:~:text=Livestock%20production%20accounts%20for%2018,private%20agencies%20based%20at%20FAO
-8.) Jesse Peterson, earth.org, 2024 URL- https://earth.org/how-animal-agriculture-is-accelerating-global-deforestation/#:~:text=The%20primary%20catalyst%20behind%20global,the%20size%20of%20the%20Netherlands.
-9.) "Confronting the Truth: The Catastrophic Effects of the Meat Industry on Our World" , Humane Foundation,December20,2023 URL-https://www.linkedin.com/pulse/confronting-truth-catastrophic-effects-meat-industry-qaure/
-10.) Advances in Methane Emission Estimation in Livestock: A Review of Data Collection Methods, Model Development and the Role of AI Technologies Jalil Ghassemi Nejad, Mun-Su Ju, Jang-Hoon Jo, Kyung-Hwan Oh, Yoon-Seok Lee, Sung-Dae Lee, Eun-Joong Kim, Sanggun Roh, and Hong-Gu Lee ).  doi: 10.3390/ani14030435
-11.) Kateryna Sergieieva, 2023, Deforestation & Greenhouse Gases: Why Do Forests Matter URL- https://eos.com/blog/deforestation-and-greenhouse-gases/
-12.) Antibiotic Use in Agriculture and Its Consequential Resistance in Environmental Sources: Potential Public Health Implications Christy Manyi-Loh, Sampson Mamphweli, Edson Meyer, and Anthony Okoh doi: 10.3390/molecules23040795
-13.) Yashika Kapoor, indiabioscience.org 2019  URL- https://indiabioscience.org/columns/indian-scenario/meating-the-needs-of-the-future
-14.) Yearly number of animals slaughtered for meat, World (ourworldindata.org) URL- Yearly number of animals slaughtered for meat, World, 1961 to 2022 (ourworldindata.org)
-15.) Jones et al. (2024) with major processing by Our World in Data. URL- Methane emissions, 2022 (ourworldindata.org).
-16.) https://github.com/yutan16/meat-consumption/blob/main/meat_consumption.csv
+1. Impacts of climate change on the livestock food supply chain; a review of the evidence C.M. Godde, D. Mason-D’Croz, D.E. Mayberry, P.K. Thornton, and M. Herrero Glob Food Sec. 2021 Mar; 28: 100488. Published online 2021 Mar. doi: 10.1016/j.gfs.2020.100488
+2. Cassandra Brooks, Stanford&#39;s Woods Institute, 2011 URL-https://woods.stanford.edu/news/meats-environmental-impact#:~:text=Livestock%20production%20accounts%20for%2018,private%20agencies%20based%20at%20FAO
+3. Jesse Peterson, earth.org, 2024 URL- https://earth.org/how-animal-agriculture-is-accelerating-global-deforestation/#:~:text=The%20primary%20catalyst%20behind%20global,the%20size%20of%20the%20Netherlands.
+4. Confronting the Truth: The Catastrophic Effects of the Meat Industry on Our World ,Humane Foundation, December 20, 2023 URL-https://www.linkedin.com/pulse/confronting-truth-catastrophic-effects-meat-industry-qaure/
+5. Advances in Methane Emission Estimation in Livestock: A Review of Data Collection Methods, Model Development and the Role of AI Technologies Jalil Ghassemi Nejad, Mun-Su Ju, Jang-Hoon Jo, Kyung-Hwan Oh, Yoon-Seok Lee, Sung-Dae Lee, Eun-Joong Kim, Sanggun Roh, and Hong-Gu Lee ). doi: 10.3390/ani14030435
+6. Kateryna Sergieieva, 2023, Deforestation &amp; Greenhouse Gases: Why Do Forests Matter. URL- https://eos.com/blog/deforestation-and-greenhouse-gases/
+7. Antibiotic Use in Agriculture and Its Consequential Resistance in Environmental Sources:Potential Public Health Implications Christy Manyi-Loh, Sampson Mamphweli, Edson Meyer, and Anthony Okoh doi: 10.3390/molecules23040795
+8. IPCC Special Report on Climate Change, Desertification, Land Degradation, Sustainable Land Management, Food Security, and Greenhouse Gas Fluxes in Terrestrial Ecosystems. pp. 437 –550, Cambridge Unversity Press, 2022 https://doi.org/10.1017/9781009157988.007
+9. India State of Forest Report, Forest Survey of India, Ministry of Environment, Forest &amp; Climate Change, Government of India, 2019
+10. National Dairy Development Board Report (2019)( https://www.nddb.coop/information/stats )
+11. Animal Husbandry and Dairying, Ministry of Fisheries, Government of India Report, 2021
+12. Samal, A., Sahu, S.K., Mishra, A., Mangaraj, P., Pani, S.K., Beig, G. (2024). Assessment and Quantification of Methane Emission from Indian Livestock and Manure Management. Aerosol Air Qual. Res. 24, 230204. https://doi.org/10.4209/aaqr.230204
+13. Devi SM, Balachandar V, Lee SI, Kim IH. An Outline of Meat Consumption in the Indian Population - A Pilot Review. Korean J Food Sci Anim Resour. 2014;34(4):507-15. doi:10.5851/kosfa.2014.34.4.507. Epub 2014 Aug 31. PMID: 26761289; PMCID: PMC4662155.
+14. Milman O. Mear accounts for nearly 60% of all greenhouse gases from food production, study finds. The Gaurdian. Sep 2021
+15. Anna Fleck, Indian Emerges as Second Largest Beef Exporter in the World, The Wire, March 05, 2024
+16. Fred Pearce, What is Causing the Recent Rise in methane Emissions?, Yale Environment 360, October, 25, 2016
+17. Kapoor Y. How is India’s meat industry impacting the environment? IndiaBioscience Oct 12,2019 (https://indiabioscience.org/columns/indian-scenario/meating-the-needs-of-the-future)
+18. https://github.com/yutan16/meatconsumption/blob/main/meat_consumption.csv
+19. Yearly number of animals slaughtered for meat, World (ourworldindata.org) Yearly number of animals slaughtered for meat, World, 1961 to 2022 (ourworldindata.org)
+20. Cattle Total Slaughter by Year https://www.indexmundi.com/agriculture/?country=in&amp;commodity=cattle&amp;graph=total-slaughter#google_vignette
+21. Annual Methane Emissions (1850 to 2022) (Methane emissions, 2022 (ourworldindata.org)
